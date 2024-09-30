@@ -1,9 +1,9 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+//YouTube: @MADKILLER_121
+//Telegram: https://t.me/mad_bot_group
+//GitHub: @burhancv12
+//WhatsApp: https://chat.whatsapp.com/Caf2WX6iKtc7TeRaeefFEh
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
 
 const fs = require('fs')
